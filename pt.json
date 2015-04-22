@@ -104,7 +104,7 @@
     "emojilist": "/me Emojis: http://goo.gl/bljNXa",
     "notinwaitlist": "@%%NAME%%, você não está na lista de espera.",
     "eta": "/me @%%NAME%% você tocará em aproximadamente %%TIME%%.",
-    "facebook": "/me Curta nossa página no Facebook: https://www.facebook.com/EhAquiOficial",
+    "facebook": "/me Curta nossa página no Facebook: %%LINK%%",
     "starterhelp": "/me Essa imagem te ajudará a usar e entender o plug.dj: http://i.imgur.com/npf3BZP.png",
     "roulettejoin": "/me @%%NAME%% entrou na roleta! (Use !leave para sair da roleta.)",
     "jointime": "/me [@%%NAMEFROM%%] @%%USERNAME%% esteve na sala por %%TIME%%.",
