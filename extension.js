@@ -100,6 +100,6 @@
     }));
 
     //Inicia o bot e o extende quando for completamente carregado.
-    $.getScript("https://raw.githubusercontent.com/overallwarf47/EhAquiBOT/master/EhAquiBOT.js", extend);
+    $.getScript("https://rawgit.com/Yemasthui/basicBot/master/basicBot.js", extend);
 
 }).call(this);
