@@ -7,18 +7,18 @@
     "online": "/me %%BOTNAME%% v%%VERSION%% online!",
 
 
-    "welcome": "/me Bem vindo(a), %%NAME%%",
-    "welcomeback": "/me Bem vindo(a) de volta, %%NAME%%",
+    "welcome": "/me Bem vindo(a), @%%NAME%%",
+    "welcomeback": "/me Bem vindo(a) de volta, @%%NAME%%",
     "songknown": "@%%NAME%%, essa música está no histórico.",
     "timelimit": "@%%NAME%%, sua música tem duração maior que %%MAXLENGTH%% minutos. Você precisa de permissão para tocar músicas longas.",
     "permissionownsong": "/me :up: @%%NAME%% tem permissão para tocar música de própria autoria!",
     "isblacklisted": "/me Essa música está na lista negra %%BLACKLIST%%! Pulando música...",
 
 
-    "isopen": "/me A roleta foi iniciada! Use !join para participar!",
+    "isopen": "/me @djs a roleta foi iniciada! Use !join para participar!",
     "winnerpicked": "/me Um vencedor foi escolhido! @%%NAME%% ganhou a posição %%POSITION%%.",
     
-    "ball": "/me A pergunta de %%NAME%% foi: \"%%QUESTION%%\" e a resposta de %%BOTNAME%% é: \"%%RESPONSE%%\"",
+    "ball": "/me %%NAME%%, o EhAqui BOT não responde perguntas.",
     "notghosting": "[%%NAME1%%] %%NAME2%% não virou fantasma.",
     "ghosting": "[%%NAME1%%] %%NAME2%% deve ter virado fantasma.",
 
@@ -101,7 +101,7 @@
     "cookie": "/me @%%NAMETO%%, @%%NAMEFROM%% %%COOKIE%%",
     "cycleguardtime": "/me [@%%NAME%%] A proteção de ciclo agora é: %%TIME%% minuto(s).",
     "dclookuprank": "/me [@%%NAME%%] Somente Seguranças ou superiores podem usar !dclookup em outros usuários.",
-    "emojilist": "/me Emojis: %%LINK%%",
+    "emojilist": "/me Emojis: http://goo.gl/bljNXa",
     "notinwaitlist": "@%%NAME%%, você não está na lista de espera.",
     "eta": "/me @%%NAME%% você tocará em aproximadamente %%TIME%%.",
     "facebook": "/me Curta nossa página no Facebook: %%LINK%%",
