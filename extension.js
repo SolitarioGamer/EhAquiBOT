@@ -1,6 +1,6 @@
 (function () {
     //Nome de usuário de onde foi feito a cópia, assim você não precisa mudar tanta coisa.
-    var fork = "motelbible";
+    var fork = "overallwarf47";
 		
     //Definir função pela extensão do bot.
     function extend() {
@@ -47,7 +47,7 @@
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: false, // true ou false
-        chatLink: "https://rawgit.com/" + fork + "/basicBot/master/lang/pt.json",
+        chatLink: "https://rawgit.com/" + fork + "/EhAquiBOT/pt.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,
