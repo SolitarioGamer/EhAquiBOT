@@ -1,6 +1,6 @@
 (function () {
     //Nome de usuário de onde foi feito a cópia, assim você não precisa mudar tanta coisa.
-    var fork = "overallwarf47";
+    var fork = "motelbible";
 		
     //Definir função pela extensão do bot.
     function extend() {
@@ -45,9 +45,9 @@
         botName: "EhAqui BOT",
         language: "portuguese",
         startupCap: 1, // 1-200
-        startupVolume: 0, // 0-100
+        startupVolume: 100, // 0-100
         startupEmoji: false, // true ou false
-        chatLink: "https://raw.githubusercontent.com/overallwarf47/EhAquiBOT/master/pt.json",
+        chatLink: "https://rawgit.com/overallwarf47/EhAquiBOT/master/pt.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,
@@ -59,11 +59,11 @@
         cycleGuard: true,
         maximumCycletime: 10,
         voteSkip: true,
-        voteSkipLimit: 3,
+        voteSkipLimit: 2,
         timeGuard: true,
         maximumSongLength: 6,
         autodisable: true,
-        commandCooldown: 0,
+        commandCooldown: 30,
         usercommandsEnabled: true,
         lockskipPosition: 3,
         lockskipReasons: [
@@ -86,9 +86,9 @@
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: "https://www.facebook.com/EhAquiOficial",
+        fbLink: 'https://www.facebook.com/EhAquiOficial',
         youtubeLink: null,
-        website: null,
+        website: 'http://ehaqui.com/',
         intervalMessages: [],
         messageInterval: 5,
         songstats: false,
@@ -100,6 +100,6 @@
     }));
 
     //Inicia o bot e o extende quando for completamente carregado.
-    $.getScript("https://rawgit.com/Yemasthui/basicBot/master/basicBot.js", extend);
+    $.getScript("https://rawgit.com/motelbible/basicBot/master/basicBot.js", extend);
 
 }).call(this);
