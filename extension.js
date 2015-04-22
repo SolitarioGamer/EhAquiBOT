@@ -47,7 +47,7 @@
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: false, // true ou false
-        chatLink: "https://rawgit.com/" + fork + "/EhAquiBOT/blob/master/pt.json",
+        chatLink: "https://rawgit.com/" + fork + "/EhAquiBOT/master/pt.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,
