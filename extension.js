@@ -34,8 +34,8 @@
 
          */
 
-	bot.commands.cookieCommand = {
-                command: 'cookie',
+	cookieCommand: {
+                command: ['cookie', 'biscoito'],
                 rank: 'user',
                 type: 'startsWith',
                 cookies: ['te deu um biscoito de chocolate!',
