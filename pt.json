@@ -18,7 +18,7 @@
     "isopen": "/me @djs a roleta foi iniciada! Use !join para participar!",
     "winnerpicked": "/me Um vencedor foi escolhido! @%%NAME%% ganhou a posição %%POSITION%%.",
     
-    "ball": "/me @%%NAME%%, o %%BOTNAME%% não responde perguntas.",
+    "ball": "/me A pergunta de %%NAME%% foi: \"%%QUESTION%%\" e a resposta de %%BOTNAME%% é: \"%%RESPONSE%%\"",
     "notghosting": "[%%NAME1%%] %%NAME2%% não virou fantasma.",
     "ghosting": "[%%NAME1%%] %%NAME2%% deve ter virado fantasma.",
 
