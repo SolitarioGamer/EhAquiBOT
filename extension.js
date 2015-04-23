@@ -1,6 +1,6 @@
 (function () {
     //Nome de usuário de onde foi feito a cópia, assim você não precisa mudar tanta coisa.
-    var fork = "motelbible";
+    var fork = "overallwarf47";
 		
     //Definir função pela extensão do bot.
     function extend() {
@@ -34,7 +34,7 @@
 
          */
 
-	bot.commands.biscoitoCommand: {
+	/* bot.commands.biscoitoCommand: {
                 command: ['cookie', 'biscoito'],
                 rank: 'user',
                 type: 'startsWith',
@@ -89,7 +89,7 @@
                         }
                     }
                 }
-            },
+            }, */
         //Carregar o pacote do chat novamente para registrar todas as mudanças
         bot.loadChat();
 
