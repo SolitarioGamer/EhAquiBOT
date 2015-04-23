@@ -34,7 +34,7 @@
 
          */
 
-	cookieCommand: {
+	bot.commands.biscoitoCommand: {
                 command: ['cookie', 'biscoito'],
                 rank: 'user',
                 type: 'startsWith',
